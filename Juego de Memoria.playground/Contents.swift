@@ -3,7 +3,7 @@
 import UIKit
 
 // creo el rango
-var numeros = 1...100
+var numeros = 0...100
 
 // lo recorro
 for i in numeros {
